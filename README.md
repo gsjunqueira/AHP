@@ -136,7 +136,7 @@ plt.show()
 
 Certifique-se de ter o Python instalado em sua máquina. Clone o repositório e utilize os arquivos multicriterio.py e app.py conforme necessário`
 
-```git clone https://github.com/gsjunqueira/Multi_Criterio_AHP.git
+```git clone https://github.com/gsjunqueira/AHP.git
 ```
 
 ## Requisitos
