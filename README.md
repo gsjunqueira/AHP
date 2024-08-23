@@ -136,9 +136,7 @@ plt.show()
 
 Certifique-se de ter o Python instalado em sua máquina. Clone o repositório e utilize os arquivos multicriterio.py e app.py conforme necessário`
 
-```
-git clone https://github.com/seuusuario/projeto-multicriterio-ahp.git
-cd projeto-multicriterio-ahp
+```git clone https://github.com/gsjunqueira/Multi_Criterio_AHP.git
 ```
 
 ## Requisitos
@@ -151,4 +149,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar 
 
 ## Licença
 
-Este projeto é licenciado sob a Licença MIT - consulte o arquivo <span style="color:blue">LICENSE</span> para mais detalhes.
+Este projeto é licenciado sob a Licença MIT - consulte o arquivo <p style="color:blue">LICENSE</p> para mais detalhes.
